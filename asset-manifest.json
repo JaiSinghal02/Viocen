@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viocen/static/css/main.b35a0242.css",
+    "main.js": "/viocen/static/js/main.16409535.js",
+    "static/media/viocen_login_long.jpg": "/viocen/static/media/viocen_login_long.e7afa9ef374eb373d6b7.jpg",
+    "static/media/HOTEL-TYBEE.jpg": "/viocen/static/media/HOTEL-TYBEE.60d68e2d26c6a946737c.jpg",
+    "index.html": "/viocen/index.html",
+    "main.b35a0242.css.map": "/viocen/static/css/main.b35a0242.css.map",
+    "main.16409535.js.map": "/viocen/static/js/main.16409535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b35a0242.css",
+    "static/js/main.16409535.js"
+  ]
+}
